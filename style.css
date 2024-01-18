@@ -17,7 +17,6 @@ body{
     justify-content: center;
 }
 
-
 a{
     text-decoration: none;    
     color: rgb(1, 9, 44);
@@ -37,12 +36,16 @@ a{
 .info{
     width: 180px;
     height: 180px;
+    border-color: black;
+    border-style: ridge;
+    padding-top: 10px;
 }
 
 img{
     width: 120px;
     height: 120px;
 }
+
 /*
 #sisak{
     width: auto;
